@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+
 ## I'm Shasank!
 
 - 🔭 Currently working on App development and IMS.
