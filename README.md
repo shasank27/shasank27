@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shasank27/shasank27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasank27&theme=vision-friendly-dark)
 
 - 🔭 I’m currently working on App development and IMS.
