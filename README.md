@@ -9,5 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stock and Crypto Markets are ❤️
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasank27&theme=vision-friendly-dark)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasank27&show_icons=true&theme=vision-friendly-dark)
