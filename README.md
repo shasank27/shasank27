@@ -23,6 +23,5 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasank27&layout=compact&theme=gotham)
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasank27&show_icons=true&theme=gotham)
