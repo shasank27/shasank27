@@ -33,5 +33,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasank27&layout=compact&theme=gotham)
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasank27&show_icons=true&theme=gotham) </br>
-### My Contributions
-![Snake Eating away my contributions](https://github.com/shasank27/shasank27/blob/output/github-contribution-grid-snake.svg)
+<!-- ### My Contributions -->
+<!-- ![Snake Eating away my contributions](https://github.com/shasank27/shasank27/blob/output/github-contribution-grid-snake.svg) -->
